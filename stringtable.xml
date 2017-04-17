@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Dragon_Ridge">
+
+	<Key ID="STR_TB_missionTitle_TB_Dragon_Ridge">
+		<Original>Zavarak</Original>
+		<English>Zavarak</English>
+		<German>Zavarak</German>
+		<Italian>Zavarak</Italian>
+		<Spanish>Zavarak</Spanish>
+		<French>Zavarak</French>
+		<Czech>Zavarak</Czech>
+		<Russian>Zavarak</Russian>
+		<Polish>Zavarak</Polish>
+		<Hungarian>Zavarak</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Dragon_Ridge">
+		<Original>TacBF A&amp;S[T-10]: Zavarak</Original>
+		<English>TacBF A&amp;S[T-10]: Zavarak</English>
+		<German>TacBF A&amp;S[T-10]: Zavarak</German>
+		<Italian>TacBF A&amp;S[T-10]: Zavarak</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Zavarak</Spanish>
+		<French>TacBF A&amp;S[T-10]: Zavarak</French>
+		<Czech>TacBF A&amp;S[T-10]: Zavarak</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Zavarak</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Zavarak</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Zavarak</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
